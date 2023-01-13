@@ -1,2 +1,2 @@
 const square = require("./exportFunctionWithParameter.js");
-console.log(square(parseInt));
+console.log(square(2));
